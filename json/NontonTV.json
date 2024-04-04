@@ -4,7 +4,7 @@
       "name": "Movie",
       "channels": [
         {
-          "name": "HBO",image:"https://i.postimg.cc/JnHkLGFv/hboth.png",
+          "name": "HBO",
           "stream_url": "https://tiea9999.github.io/hbohd/",
           "drm_name": "mncnow"
         },
