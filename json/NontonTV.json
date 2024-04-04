@@ -5,7 +5,7 @@
       "channels": [
         {
           "name": "HBO",
-          "stream_url": "https://dookeela.live:443/live-tv/hbo",
+          "stream_url": "http://45.139.122.199:80/play/live.php?mac=10:27:BE:2F:75:E5&stream=115714&extension=m3u8",
           "drm_name": "mncnow"
         },
         {
