@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "name": "Nasional",
+      "name": "Movie",
       "channels": [
         {
-          "name": "ANTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
+          "name": "HBO",image:"https://i.postimg.cc/JnHkLGFv/hboth.png",
+          "stream_url": "https://tiea9999.github.io/hbohd/",
           "drm_name": "mncnow"
         },
         {
